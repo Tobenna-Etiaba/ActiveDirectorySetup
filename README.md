@@ -3,7 +3,7 @@
 <br />
 
 <h1>ActiveDirectory (Part 1 - Setup)</h1>
-I will be outlining how I was able to install and deploy Active Directory on a windows server VM through the use of Azure & how I was able to join a windows 10 VM to the server to to make it a client to the server.
+I will be outlining how I was able to install and deploy Active Directory on a Windows Server VM through the use of Azure & how I was able to join a Windows 10 VM to the server to to make it a client to the server.
 
 <h2>Tools Used</h2>
 
@@ -18,7 +18,7 @@ I will be outlining how I was able to install and deploy Active Directory on a w
 
 <h2>Step By Step Process</h2>
 
-- I started by creating a Windows server virtual machine in Azure with 2vcpus & 8GB of memory to ensure that the VM ran at a reasonable speed.
+- I started out by creating a Windows server virtual machine in Azure with 2vcpus & 8GB of memory to ensure that the VM ran at a reasonable speed.
 
 <img width="621" alt="Screenshot 2025-02-07 at 12 43 56" src="https://github.com/user-attachments/assets/20b1f8aa-c2fc-4ea8-81ff-eda4c9a18adc" />
 
