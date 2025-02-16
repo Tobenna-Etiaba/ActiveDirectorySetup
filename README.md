@@ -3,7 +3,7 @@
 <br />
 
 <h1>ActiveDirectory (Part 1 - Setup)</h1>
-I will be outlining how I was able to install and deploy Active Directory on a Windows Server VM through the use of Azure & how I was able to join a Windows 10 VM to the server to to make it a client to the server.
+I will be outlining how I was able to install and deploy Active Directory on a Windows Server VM through the use of Azure & how I was able to join a Windows 10 VM to the server to make it a client to the server.
 
 <h2>Tools Used</h2>
 
